@@ -1,0 +1,11 @@
+form{
+    margin-left: 20px;
+}
+.titre{
+    text-transform: uppercase;
+    background-color: rgb(44, 239, 171);
+    padding: 20PX ;
+}
+input{
+    margin: 10px 10px;
+}
